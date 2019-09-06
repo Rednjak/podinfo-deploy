@@ -21,7 +21,7 @@ spec:
         backend:
           serviceName: podinfo
           servicePort: 9898
-      - path: /metricsdemo
+      - path: /mighty-fine
         backend:
           serviceName: metrics-demo
           servicePort: 3000
