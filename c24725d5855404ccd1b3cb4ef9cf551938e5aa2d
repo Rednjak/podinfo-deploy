@@ -1,0 +1,1 @@
+{"jobID":"c1becafe-69ae-1f86-5c0e-879b1e1a709a","spec":{"type":"policy","cause":{"Message":"","User":"zlatko rednjak \u003czlatko.rednjak.app@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
