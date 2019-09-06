@@ -17,10 +17,10 @@ spec:
   - host: training-user-26.training.weave.works
     http:
       paths:
-      - path: /podinfo
-        backend:
-          serviceName: podinfo
-          servicePort: 9898
+      # - path: /podinfo
+      #   backend:
+      #     serviceName: podinfo
+      #     servicePort: 9898
       - path: /mighty-fine
         backend:
           serviceName: metrics-demo
